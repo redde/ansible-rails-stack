@@ -1,0 +1,24 @@
+[submodule "roles/newrelic"]
+	path = roles/newrelic
+	url = https://github.com/redde/ansible-newrelic.git
+[submodule "roles/postgres"]
+	path = roles/postgres
+	url = https://github.com/redde/ansible-postgres.git
+[submodule "roles/memcached"]
+	path = roles/memcached
+	url = https://github.com/redde/ansible-memcached.git
+[submodule "roles/monit"]
+	path = roles/monit
+	url = https://github.com/redde/ansible-monit.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = https://github.com/redde/ansible-nodejs.git
+[submodule "roles/rails"]
+	path = roles/rails
+	url = https://github.com/redde/ansible-rails.git
+[submodule "roles/rbenv"]
+	path = roles/rbenv
+	url = https://github.com/redde/ansible-rbenv.git
+[submodule "roles/redis"]
+	path = roles/redis
+	url = https://github.com/redde/ansible-redis.git

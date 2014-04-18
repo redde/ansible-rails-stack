@@ -1,0 +1,17 @@
+---
+- hosts: all
+  user: root
+  roles:
+    - general
+    - nodejs
+
+- hosts: feron
+  user: root
+  roles:
+    - nginx
+    - database
+    - memcached
+    - redis
+    - monit
+    - feron
+    - rbenv

@@ -1,0 +1,14 @@
+---
+- hosts: all
+  user: vagrant
+  sudo: true
+  vars_files:
+    - group_vars/all.yml
+
+  roles:
+    - general
+    - nodejs
+    - nginx
+    - postgres
+    - monit
+    - rbenv
