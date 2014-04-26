@@ -1,0 +1,5 @@
+# Rails infrastructure
+## Sidekiq Bonus
+
+* Creates sidekiq.yml
+* Creates upstart script for sidekiq

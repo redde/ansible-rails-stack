@@ -1,0 +1,6 @@
+# Rails infrastructure
+## nginx
+
+* Installs latest nginx
+* Replaces nginx.conf
+* Creates application nginx config (app_name.conf)

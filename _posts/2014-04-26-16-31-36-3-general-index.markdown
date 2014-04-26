@@ -1,0 +1,7 @@
+# General tools
+
+See [github repo](https://github.com/redde/ansible-general) for more info
+
+* Install general handy tools
+* Manage root and deploy users
+* sudoers

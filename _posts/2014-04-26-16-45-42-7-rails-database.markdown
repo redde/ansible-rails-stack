@@ -1,0 +1,6 @@
+# Rails infrastructure
+## Database
+
+* Installs latest postgresql (with extensions)
+* Chages posgres default config
+* Creates application user and database

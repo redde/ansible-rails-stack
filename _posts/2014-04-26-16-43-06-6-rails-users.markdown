@@ -1,0 +1,6 @@
+# Rails infrastructure
+## Users
+
+* Installs rbenv and ruby for deploy user
+* Creates necessary directories
+* Creates configs (database.yml, unicorn.rb, sidekiq.yml)

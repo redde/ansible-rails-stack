@@ -1,0 +1,7 @@
+# General
+## root and deploy users
+
+* Manage root authorized_keys
+* Manage deploy authorized keys
+* Manager deploy private and public keys
+* Adds deploy user to sudoers!

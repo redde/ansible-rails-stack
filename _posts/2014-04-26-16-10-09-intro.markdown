@@ -1,1 +1,5 @@
 # Ansible rails stack
+
+Ansible template for easy management of one or more servers with rails applications.
+
+by Oleg Bovykin ([arrowcircle](https://github.com/arrowcircle)) at [redde.ru](http://redde.ru)

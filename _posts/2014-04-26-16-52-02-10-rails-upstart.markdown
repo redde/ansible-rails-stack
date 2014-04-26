@@ -1,0 +1,5 @@
+# Rails infrastructure
+## upstart
+
+* Makes upstart script for you rails app
+* Unicorn only

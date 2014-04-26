@@ -1,0 +1,7 @@
+# General
+## handy tools
+
+* Fail2Ban for little security
+* ntp for correct time
+* ru_RU.UTF-8 locale
+* NewRelic server monitoring
