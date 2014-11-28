@@ -10,9 +10,6 @@
 [submodule "roles/monit"]
 	path = roles/monit
 	url = https://github.com/redde/ansible-monit.git
-[submodule "roles/nginx"]
-	path = roles/nginx
-	url = https://github.com/redde/ansible-nodejs.git
 [submodule "roles/rails"]
 	path = roles/rails
 	url = https://github.com/redde/ansible-rails.git
@@ -31,3 +28,6 @@
 [submodule "roles/nodejs"]
 	path = roles/nodejs
 	url = https://github.com/redde/ansible-nodejs.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = git@github.com:redde/ansible-nginx.git
